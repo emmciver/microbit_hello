@@ -1,4 +1,4 @@
-basic.showString("Hello!")
+basic.showString("Hello World!")
 basic.forever(function () {
 	
 })
